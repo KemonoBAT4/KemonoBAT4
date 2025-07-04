@@ -5,7 +5,7 @@ Welcome to my profile! I'm a young developer currently working as a web develope
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: a gestional web page with a customizable server and a dashboard for the data in Python known as [Cardinal](https://github.com/KemonoBAT4/Cardinal)
+- 🔭 I’m currently working on: a gestional web page with a customizable server and a dashboard in Python known as [Cardinal](https://github.com/KemonoBAT4/Cardinal)
 - 🏗️ I’m currently working on: a ai based windows application in C++ called [Midnight](https://github.com/KemonoBAT4/Midnight)
 - 🌱 I’m currently learning: Python, C++, HTML, CSS, JavaScript
 - 📫 How to reach me: kemono.bat.4@gmail.com
@@ -34,7 +34,7 @@ Welcome to my profile! I'm a young developer currently working as a web develope
 
 - [🖥️ Midngiht](https://github.com/KemonoBAT4/Midnight): A C++ Windows application with an AI assistant.
 - [🐦‍⬛ Cardinal](https://github.com/KemonoBAT4/Cardinal): A gestional web application with customizable server and dasbhoard
-- [📚 P.L.](https://github.com/KemonoBAT4/Programming-Library): A Library to store informations about any topics
+- [📚 P.L.](https://github.com/KemonoBAT4/Programming-Library): A Programming Library to store informations about any topics to help new developers
 ---
 You're welcome to explore my projects and get in touch if you're interested in working together. 🌟
 
