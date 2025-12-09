@@ -1,5 +1,5 @@
 # 👋 Hello there, I'm KemonoBAT4!
-Welcome to my profile! I'm a young developer currently working as a web developer in a small company. I also love working on interesting projects that occasionally come to mind.
+Welcome to my profile! I am a young developer currently working as a web developer in a small company. I also enjoy working on interesting projects that come to mind from time to time. In my spare time, I am also creating a portfolio to showcase who I am, other information, and my CV. You can find it [here](https://portfolio-kemonobat4.vercel.app/) (currently in development)
 
 ---
 
@@ -30,11 +30,17 @@ Welcome to my profile! I'm a young developer currently working as a web develope
 
 ---
 
+## 🏢 Organizations
+I created a small organization so I could put projects, repositories, and ideas there, leaving my favorite projects only on my profile.
+
+---
+
 ## 📂 Featured Projects
 
 - [🖥️ Midngiht](https://github.com/KemonoBAT4/Midnight): A C++ Windows application with an AI assistant.
 - [🐦‍⬛ Cardinal](https://github.com/KemonoBAT4/Cardinal): A gestional web application with customizable server and dasbhoard
 - [📚 P.L.](https://github.com/KemonoBAT4/Programming-Library): A Programming Library to store informations about any topics to help new developers
+<!-- - [🏎️ SpeedTrail](https://github.com/TwinCore-Systems/SpeedTrail): A mobile application for monitoring speed and time on a specific road route -->
 ---
 You're welcome to explore my projects and get in touch if you're interested in working together. 🌟
 
