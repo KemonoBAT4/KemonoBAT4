@@ -39,7 +39,7 @@ I created a small organization so I could put projects, repositories, and ideas 
 
 - [🖥️ Midngiht](https://github.com/KemonoBAT4/Midnight): A C++ Windows application with an AI assistant.
 - [🐦‍⬛ Cardinal](https://github.com/KemonoBAT4/Cardinal): A gestional web application with customizable server and dasbhoard
-- [📚 P.L.](https://github.com/KemonoBAT4/Movie-Catalog): A Movie Catalog dedicated for films and TV-Series and stream locally downloaded videos
+- [📚 Movie-Catalog](https://github.com/KemonoBAT4/Movie-Catalog): A Movie Catalog dedicated for films and TV-Series and stream locally downloaded videos
 <!-- - [📚 P.L.](https://github.com/KemonoBAT4/Programming-Library): A Programming Library to store informations about any topics to help new developers -->
 <!-- - [🏎️ SpeedTrail](https://github.com/TwinCore-Systems/SpeedTrail): A mobile application for monitoring speed and time on a specific road route -->
 ---
